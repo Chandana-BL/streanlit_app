@@ -70,5 +70,5 @@ def main():
             st.success(f'Hello {name}, you are {age} years old')
             if age > 80:               
                 pop_up_window()
-
+#main function call
 main()
